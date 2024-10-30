@@ -1,0 +1,119 @@
+
+
+
+     
+    
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            background-color: #d12f31;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+        }
+        h3, p {
+            margin: 20px;
+        }
+        h3 {
+            color: #d12f31;
+        }
+        h2 a {
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+        h2 a:hover {
+            color: #d12f31;
+        }
+        nav {
+            text-align: center;
+            margin-top: 10px;
+        }
+        nav a {
+            text-decoration: none;
+            color: #000;
+            font-size: 16px;
+            margin-right: 20px;
+            padding: 10px;
+        }
+        nav a:hover {
+            color: #d12f31;
+        }
+        img {
+            width: 100%;
+            max-width: 600px;
+            display: block;
+            margin: 0 auto 20px;
+        }
+        hr {
+            border: 1px solid #ccc;
+            margin: 20px 0;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #d12f31;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>PIAUÍ</h1>
+    
+    <h3>ÚLTIMAS NOTÍCIAS</h3>
+
+    <nav>
+        <a href="ooo1.html">Últimas Notícias</a>
+        <a href="0002.html">Eleições</a>
+        <a href="0003.html">Esporte</a>
+    </nav>
+
+    <div class="container">
+        <h3>Mulher é estuprada em matagal após pegar carona no Piauí; suspeito foi preso em flagrante</h3>
+        <p>O motorista, o documento falso, a quantia em dinheiro e o carro foram encaminhados para a central de flagrantes de Parnaíba.</p>
+        <img src="th.jpeg" alt="Imagem da notícia 1">
+        <hr>
+
+        <h3>Tartaruga-cabeçuda é resgatada em Barra Grande, litoral do Piauí; animal foi encaminhado ao veterinário</h3>
+        <p>Conforme o Instituto Tartarugas do Delta, uma família contribuiu no resgate. O animal foi encaminhado ao centro de reabilitação da ONG.</p>
+        <img src="th (1).jpeg" alt="Imagem da notícia 2">
+        <hr>
+
+        <h3>Namorado do influenciador Lokinho mudou de faixa antes de atropelar e matar mulheres na BR-316, conclui laudo da PRF</h3>
+        <p>Segundo a Polícia Rodoviária Federal (PRF), o motorista Stanlley Gabryell passou da faixa esquerda para a direita sem nenhum elemento à frente que forçasse a manobra, e duas crianças ficaram feridas.</p>
+        <img src="th (2).jpeg" alt="Imagem da notícia 3">
+        <hr>
+
+        <h3>Homem é preso suspeito de matar desafeto após chamá-lo para beber, em Alegrete do Piauí</h3>
+        <p>Segundo a Polícia Militar, após ser preso, o homem confessou que convidou Juracy João da Silva na zona rural do município para matá-lo.</p>
+        <img src="th (3).jpeg" alt="Imagem da notícia 4">
+        <hr>
+
+        <h3>Homem é assassinado com golpes de faca durante briga em rua de Parnaíba, no Piauí</h3>
+        <p>O suspeito é um homem identificado apenas como Pedro, que seria idoso e trabalha como carroceiro. Ele está sendo procurado pelos policiais. Não se sabe ao certo o que teria motivado a discussão entre os dois.</p>
+        <img src="th (4).jpeg" alt="Imagem da notícia 5">
+        <hr>
+
+        <h3>Piauiense de 47 anos é condenada a pagar multa e assistir curso por participação em altos n</h3>
+    </div>
+
+    <footer>
+        &copy; 2024 Piauí Notícias
+    </footer>
+
+</body>
+</html>
+[10:39, 22/10/2024] Joabe Fernandes: 
